@@ -244,7 +244,7 @@ l1=Label(root,image=logo,width=350,height=200)
 l1.grid(column=2,row=0,padx=500,pady=50)
 b1.configure(background='#F7DC6F')
 b2.configure(background='#F7DC6F')
-logo2 = PhotoImage(file=r'C:\Users\Aman\Downloads\taylor JPEG high.gif')
+logo2 = PhotoImage(file=r'C:\Users\Priya\Downloads\taylor JPEG high.gif')
 
 
 
