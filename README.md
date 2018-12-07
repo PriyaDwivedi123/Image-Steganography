@@ -1,2 +1,2 @@
 # Image-Steganography
-To deliver important information by hidding it in an image ,so that no one know that there is a information along with image.
+Image Steganography is a method of hiding secret data, by embedding it into an audio, video, image or text file. It is one of the methods employed to protect secret or sensitive data from malicious attacks.
